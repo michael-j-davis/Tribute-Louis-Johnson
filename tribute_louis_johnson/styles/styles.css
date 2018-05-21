@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #C0C0C0;
+}
+.banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 5px 5px #3b444b;
+}
+.name {
+  text-align: center;
+  font-family: 'Titan One', cursive;
+  font-size: 72px;
+  color: 	#9400D3;
+   -webkit-text-stroke: 2.5px black;
+}
+.dates {
+  text-align: center;
+  margin-top: -30px;
+  font-family: 'Questrial', sans-serif;
+  font-size: 36px;
+}
+.bio {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1050px;
+  height: 355px;
+  text-align: left;
+  font-family: 'Times New Roman', serif;
+  font-size: 20px;
+  background-color: #A9A9A9;
+}
+.footer {
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+  background-color: #d3d3d3;
+  padding-bottom: 1px;
+  padding-top: 5px;
+}
+
+
